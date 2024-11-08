@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-tfod/static/css/main.f855e6bc.css",
+    "main.js": "/react-tfod/static/js/main.a283fab7.js",
+    "index.html": "/react-tfod/index.html",
+    "main.f855e6bc.css.map": "/react-tfod/static/css/main.f855e6bc.css.map",
+    "main.a283fab7.js.map": "/react-tfod/static/js/main.a283fab7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a283fab7.js"
+  ]
+}
